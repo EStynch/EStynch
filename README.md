@@ -1,6 +1,6 @@
 ### Hello there 👋, I am Erik Stynchula!
 
-A dedicated software engineer with a core focus creating intuitive user-friendly applications using React, TypeScript, Jest, and Tailwind CSS. I am always seeking to improve my existing skills and expand into other technologies. Currently I am broadening my understanding of: Node.js, Express.js, MongoDB, Kubernetes, KEDA, Docker, and Next.js. My goal is to deliver solutions in a timely manner while also exceeding the expectations of clients and users alike.
+A dedicated software engineer with a core focus creating intuitive user-friendly applications using React, TypeScript, Jest, and Tailwind CSS. I thrive when immersing myself in new technologies - currently my direct focus is targeting: Svelte, Vue, and Next.js. Next.js is the most exciting because I want to be able to utilize the Automatic Static Optimization and the overall improved SEO.
 
 Feel free to connect with me on LinkedIn - https://www.linkedin.com/in/erikstynchula/
 
