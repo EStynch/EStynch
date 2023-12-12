@@ -1,4 +1,4 @@
-### Hello there 👋, I am Erik Stynchula!
+### Hello there 👋, I am Erik S!
 
 A dedicated software engineer with a core focus creating intuitive user-friendly applications using React, JavaScript/TypeScript, and Jest. I thrive when immersing myself in new technologies - currently my direct focus is targeting: Svelte, Vue, and Next.js. Next.js is the most exciting because I want to be able to utilize the Automatic Static Optimization and the overall improved SEO.
 
